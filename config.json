@@ -1,0 +1,16 @@
+{
+    "dm": {
+        "channel_id": "",
+        "message": ""
+    },
+    "guild": {
+        "channel_id": "",
+        "message": "",
+        "amount": 20
+    },
+    "group": {
+        "channel_id": "",
+        "message": "",
+        "amount": 20
+    }
+}
