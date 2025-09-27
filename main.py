@@ -9,6 +9,7 @@ from modules.dm_spammer import DMSpammer
 from modules.guild_spammer import GuildSpammer
 from modules.group_spammer import GroupSpammer
 from modules.token_manager import TokenManager
+from modules.clear import clear
 
 console = Console()
 
@@ -92,7 +93,7 @@ def show_config_info(config, token_manager):
     console.print(Panel(table, title="[yellow]Config Information[/yellow]"))
 
 def main():
-    # Show banner
+    clear()
     banner()
     
     # Load config
