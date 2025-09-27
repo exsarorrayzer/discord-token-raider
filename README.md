@@ -1,4 +1,4 @@
-🔥 Discord SKULL Token Rxider Tool
+🔥 Discord Token Rxider Tool
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge" />
