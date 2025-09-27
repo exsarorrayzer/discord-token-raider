@@ -18,23 +18,32 @@ Warning: This tool is created for educational purposes only. Using it may violat
 
 ✨ Core Functionality
 
-· 📨 DM Messaging - Send messages to direct message channels 
+· 📨 DM Messaging - Send messages to direct message channels
+
 · 🏰 Guild Messaging - Post messages in server channels
+
 · 👥 Group Messaging - Message in group channels
+
 · 🔄 Multi-Token Support - Rotate between multiple accounts
+
 · ⚡ Random Token Selection - Automatically switch tokens for each message
 
 🔧 Management Tools
 
 · 🔐 Token Management - Add, view, and manage Discord tokens
+
 · ⚙️ Config System - Easy configuration via JSON files
+
 · 🎨 Beautiful UI - Rich terminal interface with colors and panels
+
 · 📊 Real-time Status - Live feedback for each operation
 
 🛡️ Safety Features
 
 · ✅ Input Validation - Proper token and configuration checks
+
 · 🔒 Secure Handling - Safe token storage and management
+
 · ⚠️ Error Handling - Comprehensive error reporting and recovery
 
 ---
@@ -44,6 +53,7 @@ Warning: This tool is created for educational purposes only. Using it may violat
 Prerequisites
 
 · Python 3.8 or higher
+
 · pip package manager
 
 Step-by-Step Setup
@@ -197,8 +207,11 @@ Error Messages
 🛡️ Security Notes
 
 · 🔒 Never share your tokens.txt file
+
 · 🔒 Use environment variables for production
+
 · 🔒 Regularly rotate your tokens
+
 · 🔒 Keep the tool updated
 
 ---
@@ -206,8 +219,11 @@ Error Messages
 📊 Performance Tips
 
 · ✅ Use multiple tokens for better performance
+
 · ✅ Adjust message amounts based on your needs
+
 · ✅ Monitor Discord rate limits
+
 · ✅ Use proper error handling in configuration
 
 ---
