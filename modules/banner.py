@@ -28,10 +28,10 @@ def banner() -> None:
                                                                                                 
 '''
 
-    # Mor tonları (RGB)
-    purple_shades = [
-        (102, 0, 153),
-        (128, 0, 192),
+    # kirmizi tonları (RGB)
+    red_shades = [
+        (255, 0, 0),
+        (255, 0, 25),
         (153, 51, 255),
         (178, 102, 255),
         (153, 51, 255),
@@ -43,7 +43,7 @@ def banner() -> None:
     colored_lines = []
 
     for i, line in enumerate(art_lines):
-        color = purple_shades[i % len(purple_shades)]
+        color = red_shades[i % len(red_shades)]
         hex_color = f"#{color[0]:02x}{color[1]:02x}{color[2]:02x}"
         colored_lines.append(f"[{hex_color}]{line}[/{hex_color}]")
 
