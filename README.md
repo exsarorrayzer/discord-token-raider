@@ -245,8 +245,11 @@ We welcome contributions! Please follow these steps:
 exsarorrayzer
 
 · GitHub: exsarorrayzer
+
 · Instagram: exsarorrayzer
+
 · Discord: noinfonocontext
+
 · YouTube: exsarorrayzer
 
 ---
