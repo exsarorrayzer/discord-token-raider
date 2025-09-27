@@ -18,7 +18,7 @@ Warning: This tool is created for educational purposes only. Using it may violat
 
 ✨ Core Functionality
 
-· 📨 DM Messaging - Send messages to direct message channels
+· 📨 DM Messaging - Send messages to direct message channels 
 · 🏰 Guild Messaging - Post messages in server channels
 · 👥 Group Messaging - Message in group channels
 · 🔄 Multi-Token Support - Rotate between multiple accounts
